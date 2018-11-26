@@ -1,5 +1,5 @@
 section {
-  margin: 2.5rem auto;
+  margin: 1.2rem auto;
 }
 
 #title {
@@ -16,7 +16,7 @@ section {
 }
 
 .jumbotron {
-  padding: 10rem 2rem;
+  padding: 8rem 2rem;
   background-image: url('/images/concrete.jpg');
   background-size: cover;
 }
