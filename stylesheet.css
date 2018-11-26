@@ -16,7 +16,7 @@ section {
 }
 
 .jumbotron {
-  padding: 8rem 2rem;
+  padding: 6rem 2rem;
   background-image: url('/images/concrete.jpg');
   background-size: cover;
 }
