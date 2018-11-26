@@ -1,5 +1,6 @@
-body {
-  font-family: 'Fredoka One', cursive;
+h1 {
+  font-family: 'Fredoka One';
+  color: #FFEB57;
 }
 .jumbotron {
   padding: 10rem 2rem;
