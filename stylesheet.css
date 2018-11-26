@@ -1,10 +1,10 @@
+section {
+  margin: 2.5rem auto;
+}
+
 #title {
   font-family: 'Fredoka One';
   color: #ff6363;
-}
-
-.container{
-  margin: 4rem auto;
 }
 
 .display-4 {
