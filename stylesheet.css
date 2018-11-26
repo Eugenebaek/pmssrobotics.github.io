@@ -1,3 +1,6 @@
+body {
+  font-family: 'Fredoka One', cursive;
+}
 .jumbotron {
   padding: 10rem 2rem;
   background-image: url('/images/concrete.jpg');
