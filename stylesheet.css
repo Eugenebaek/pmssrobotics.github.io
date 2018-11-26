@@ -1,7 +1,12 @@
-h1, p {
+#title {
   font-family: 'Fredoka One';
   color: #ff6363;
 }
+
+.container{
+  margin: 2rem auto;
+}
+
 .navbar-brand {
   color: #ff6363;
 }
