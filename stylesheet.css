@@ -18,5 +18,5 @@ section {
 .jumbotron {
   padding: 6rem 2rem;
   background-image: url('/images/teamphoto.jpg');
-  background-size: 500px 300px;
+  background-size: auto;
 }
