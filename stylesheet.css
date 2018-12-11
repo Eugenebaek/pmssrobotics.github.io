@@ -3,7 +3,7 @@ section {
 }
 
 #title {
-  font-family: 'Fredoka One';
+  font-family: 'Roboto', sans-serif;
   color: #ff6363;
 }
 
@@ -19,5 +19,4 @@ section {
   padding: 6rem 2rem;
   background-image: url('/images/teamphoto.jpg');
   background-size: auto;
-  background-position: 0 -300px;
 }
