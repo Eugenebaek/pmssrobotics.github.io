@@ -23,7 +23,9 @@ section {
 
 .jumbotron {
   padding: 6rem 2rem;
+  /*
   background-image: url('/images/teamphoto3.jpg');
   background-size: 1287px 660px;
-  /*background-position: 0 -300px; */
+  background-position: 0 -300px; 
+  */
 }
