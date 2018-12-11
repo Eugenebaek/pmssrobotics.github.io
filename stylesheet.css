@@ -5,7 +5,12 @@ section {
 #title {
   font-family: 'Roboto', sans-serif;
   color: #FFFFFF;
-  height: 660px;
+  padding: 0;
+}
+
+.titleImage {
+  width: 100%;
+  height: 100%;
 }
 
 .display-4 {
