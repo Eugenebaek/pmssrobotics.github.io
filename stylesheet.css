@@ -1,5 +1,5 @@
 section {
-  margin: 195px;
+  margin: 500px;
 }
 
 #title {
@@ -18,6 +18,6 @@ section {
 .jumbotron {
   padding: 6rem 2rem;
   background-image: url('/images/teamphoto3.jpg');
-  background-size: 195px 100px;
+  background-size: 1287px 660px;
   /*background-position: 0 -300px; */
 }
