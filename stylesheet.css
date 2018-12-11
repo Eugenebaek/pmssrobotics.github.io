@@ -19,4 +19,5 @@ section {
   padding: 6rem 2rem;
   background-image: url('/images/teamphoto.jpg');
   background-size: auto;
+  background-position: 0 -300px; 
 }
